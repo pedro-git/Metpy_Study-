@@ -1,10 +1,8 @@
-<h4>Repositório contendo o estudo da biblioteca METPY <h4>
-
-    <p>Em objetivo de estudo e conhecimento da utilização da biblioteca<br>
-       esse repositório armazena o progresso da aprendizagem com a biblioteca <br>
-       junto com as imagens e aplicativos formalizados durante o estudo 
-    </p>
-    <h3>Anderson2013
+Repositório contendo o estudo da biblioteca METPY
+Objetivo desse estudo e conhecimento da utilização da biblioteca esse repositório armazena o progresso da aprendizagem com a biblioteca  junto com as imagens e aplicativos formalizados durante o estudo 
+       
+REFERÊNCIAS   
+    Anderson2013
         Anderson, G. B., M. L. Bell, and R. D. Peng, 2013: Methods to Calculate the Heat Index as an Exposure Metric in Environmental Health Research. Environmental Health Perspectives, 121, 1111-1119, doi: 10.1289/ehp.1206273.
         
         Bakhshaii2013
@@ -146,4 +144,4 @@
         WMO, 2011: Manual on Codes - International Codes, Volume I.1, Annex II to the WMO Technical Regulations: Part A - Alphanumeric Codes. WMO No.306.
         
         WMO1966
-        WMO, 1966: International Meteorological Tables, WMO-No. 188.TP.94.</h3> 
+        WMO, 1966: International Meteorological Tables, WMO-No. 188.TP.94 
