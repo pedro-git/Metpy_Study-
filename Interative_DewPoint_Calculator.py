@@ -18,6 +18,8 @@ def calculate_dewpoint(temperature,rh):
 temperature_slider = FloatSlider(min=32,max=90,step=0.5,value=65)
 rh_slider = IntSlider(min=1,max=100,value=50)
 
-#interact(calculate_dewpoint, temperature = temperature_slider,rh=rh_slider)
+#Hud interativo calculando o ponto de orvalho
+interact(calculate_dewpoint, temperature = temperature_slider,rh=rh_slider)
 
+#Teste 
 print(calculate_dewpoint(10,40)) 
